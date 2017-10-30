@@ -14,7 +14,7 @@
     "jquery-ui": "*",
     "angular": "~1.4.7",
     "rrule": "jkbrzt/rrule#4ff63b2f8524fd6d5ba6e80db770953b5cd08a0c",
-    "angular-tz-extensions": "ansible/angular-tz-extensions",
+    "angular-tz-extensions": "ansible/angular-tz-extensions#release_3.2.2",
     "lodash": "~3.8.0",
     "moment": "^2.10.2"
   }
