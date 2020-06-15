@@ -1,6 +1,6 @@
 {
   "name": "angular-scheduler",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "main": "lib/angular-scheduler.js",
   "devDependencies": {
     "grunt": "~0.4.2",
@@ -10,12 +10,12 @@
     "requirejs": "~2.1.11"
   },
   "dependencies": {
+    "angular": "^1.7.9",
+    "angular-tz-extensions": "ansible/angular-tz-extensions",
     "jquery": "*",
     "jquery-ui": "*",
-    "angular": "~1.7.2",
-    "rrule": "jkbrzt/rrule#4ff63b2f8524fd6d5ba6e80db770953b5cd08a0c",
-    "angular-tz-extensions": "ansible/angular-tz-extensions",
-    "lodash": "~3.8.0",
-    "moment": "^2.10.2"
+    "lodash": "^4.17.15",
+    "moment": "^2.10.2",
+    "rrule": "jkbrzt/rrule#4ff63b2f8524fd6d5ba6e80db770953b5cd08a0c"
   }
 }
