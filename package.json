@@ -12,7 +12,7 @@
   "dependencies": {
     "angular": "^1.7.9",
     "angular-tz-extensions": "ansible/angular-tz-extensions",
-    "jquery": "*",
+    "jquery": "^3.5.1",
     "jquery-ui": "*",
     "lodash": "^4.17.15",
     "moment": "^2.10.2",
